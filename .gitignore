@@ -6,7 +6,6 @@ bin-release/
 
 # Other files and folders
 .settings/
-Djikstra/
 Djikstra_1.ipynb
 Untitled.ipynb
 
